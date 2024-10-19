@@ -1,6 +1,6 @@
-# plasma
+# Plasma
 
-A new Flutter application.
+Made for AP government during COVID.
 
 ## Getting Started
 
